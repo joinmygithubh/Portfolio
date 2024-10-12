@@ -1,7 +1,6 @@
 # My Portfolio
 
 This is a personal portfolio website that showcases my skills, projects, and experiences. It is designed to give a quick overview of my work and provide an easy way for potential employers or collaborators to learn more about me
-## Website Preview
 
 ## Features
 
